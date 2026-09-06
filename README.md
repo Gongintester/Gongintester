@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gongin</h1>
 <h3 align="center">A passionate software developer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gongintester&label=Profile%20views&color=0e75b6&style=flat" alt="gongintester" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gongintester&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gongintester" alt="gongintester" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gongintester"/></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"/></a> </p>
 
 - 🔭 I’m currently working on [FPS UE5 Game & Finance Software & Nexo Knights app Decompile](https://github.com/DeletedLegoGames/Fan-Merlok-2.0-Addon-Releases)
 
@@ -30,5 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gongintester&show_icons=true&locale=en&layout=compact" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gongintester&show_icons=true&locale=en"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gongintester&" alt="gongintester" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gongintester&"/></p>
 
